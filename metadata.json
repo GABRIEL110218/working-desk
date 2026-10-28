@@ -1,0 +1,6 @@
+{
+  "name": "VibeDesk - 职场工作台",
+  "description": "面向现代职场人的高效工作台：聚合今日聚焦、收件箱、任务看板、周报生成、提醒中心、会议纪要转待办、通勤聚合与沟通话术草稿。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
